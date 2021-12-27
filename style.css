@@ -1,3 +1,10 @@
-.double {border-style: solid;
+#border {
+  border-style: double;
   border-width: 5px;
+  text-align: center;
+  border-right: 0px;
+  border-left: 0px;
+  background: red;
+  opacity:0.3;
+    color: red
 }
