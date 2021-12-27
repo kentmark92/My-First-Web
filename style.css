@@ -34,3 +34,13 @@ body {
 span {
   color: red;
 }
+#box1{
+  width : 350px;
+  height: 70px;
+  background-color: DodgerBlue;
+  border-color: black;
+  border-width: 200px;
+  padding:50;
+
+  
+}
