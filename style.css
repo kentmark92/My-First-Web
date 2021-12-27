@@ -4,7 +4,6 @@
   text-align: center;
   border-right: 0px;
   border-left: 0px;
-  background: red;
-  opacity:0.3;
+  background-color: rgba(255, 0, 0, 0.3);
     color: red
 }
