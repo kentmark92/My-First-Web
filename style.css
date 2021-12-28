@@ -12,7 +12,7 @@ body {
   font-size: 15px;
   width: 50%;
 }
-#box {
+.box {
   border-style: solid;
   border-width: 3px;
   background-color: rgba(0, 0, 255, 0.1);
@@ -23,12 +23,12 @@ body {
   font-weight: 520;
   width: 40%;
 }
-#p-box {
+.p-box {
   color: blue;
   font-size: 22;
   font-weight: 500;
 }
-#list-3 {
+.list-3 {
   color: red;
 }
 span {
